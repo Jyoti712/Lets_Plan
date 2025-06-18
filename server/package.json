@@ -9,7 +9,7 @@
     "build": "echo \"Build completed successfully\"",
     "start": "node src/server.js"
   },
-  "author": "jitesh kumar",
+  "author": "Jyotirmayee Sahoo",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^3.0.2",
