@@ -1,7 +1,10 @@
 # LetsPlann - Task Management Application
+**LetsPlan** is a full-stack To-Do web application that helps users organize tasks efficiently with a simple and responsive interface.
 
-A modern, full-stack task management application built with the MERN stack.
+Built using the **MERN stack** (MongoDB, Express.js, React, Node.js), this app features:
 
+## 🔗 Live Site
+👉 [https://lets-plan-orcin.vercel.app](https://lets-plan-orcin.vercel.app)
 ## Features
 
 - User authentication (register, login, logout)
